@@ -1,0 +1,17 @@
+{
+    "name": "kitsupixel/white-fox-crm",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nelson Costa",
+            "email": "costa359@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "autoload": {
+        "psr-0": { "": ["core"] }
+    }
+}
